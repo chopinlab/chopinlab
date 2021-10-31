@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ChopinFrog
-- 👀 I’m interested in kotlin, rust, swift, DevOps
+- 👀 I’m interested in Kotlin, Rust, Swift, DevOps
 - 🌱 I’m currently learning IOS, SwiftUI
 - 💞️ I’m looking to collaborate on App Deveopment
 - 📫 How to reach me - chopinlab@gmail.com
