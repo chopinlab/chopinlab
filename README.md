@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ChopinFrog
-- 👀 I’m interested in Kotlin, Rust, K8S, DevOps
-- 🌱 I’m currently learning Flutter, Rust
+- 👋 Hi, I’m Junior Developer
+- 👀 I’m interested in K8S, golang, nodejs
+- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on App Deveopment
 - 📫 How to reach me - chopin.lab@gmail.com
 
