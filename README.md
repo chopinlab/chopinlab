@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Junior Developer
+- 👋 Hi, I’m ChopinFrog
 - 👀 I’m interested in K8S, golang, nodejs
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on App Deveopment
